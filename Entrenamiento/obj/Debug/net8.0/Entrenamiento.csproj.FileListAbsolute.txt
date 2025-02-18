@@ -1,0 +1,14 @@
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\bin\Debug\net8.0\Entrenamiento.exe
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\bin\Debug\net8.0\Entrenamiento.deps.json
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\bin\Debug\net8.0\Entrenamiento.runtimeconfig.json
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\bin\Debug\net8.0\Entrenamiento.dll
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\bin\Debug\net8.0\Entrenamiento.pdb
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.AssemblyInfoInputs.cache
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.AssemblyInfo.cs
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.dll
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\refint\Entrenamiento.dll
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.pdb
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\Entrenamiento.genruntimeconfig.cache
+C:\Users\GEMA\.vscode\Entrenamiento\Entrenamiento\obj\Debug\net8.0\ref\Entrenamiento.dll
