@@ -1,0 +1,14 @@
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\bin\Debug\net8.0\ExamenFinal3F.exe
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\bin\Debug\net8.0\ExamenFinal3F.deps.json
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\bin\Debug\net8.0\ExamenFinal3F.runtimeconfig.json
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\bin\Debug\net8.0\ExamenFinal3F.dll
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\bin\Debug\net8.0\ExamenFinal3F.pdb
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.AssemblyInfoInputs.cache
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.AssemblyInfo.cs
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.csproj.CoreCompileInputs.cache
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.dll
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\refint\ExamenFinal3F.dll
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.pdb
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ExamenFinal3F.genruntimeconfig.cache
+C:\Users\GEMA\.vscode\ExamenFinal3F\ExamenFinal3F\obj\Debug\net8.0\ref\ExamenFinal3F.dll
