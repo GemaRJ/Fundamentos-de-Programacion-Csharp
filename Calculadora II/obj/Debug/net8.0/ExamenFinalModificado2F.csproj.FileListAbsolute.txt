@@ -1,0 +1,14 @@
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\bin\Debug\net8.0\ExamenFinalModificado2F.exe
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\bin\Debug\net8.0\ExamenFinalModificado2F.deps.json
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\bin\Debug\net8.0\ExamenFinalModificado2F.runtimeconfig.json
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\bin\Debug\net8.0\ExamenFinalModificado2F.dll
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\bin\Debug\net8.0\ExamenFinalModificado2F.pdb
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.AssemblyInfoInputs.cache
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.AssemblyInfo.cs
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.csproj.CoreCompileInputs.cache
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.dll
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\refint\ExamenFinalModificado2F.dll
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.pdb
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ExamenFinalModificado2F.genruntimeconfig.cache
+C:\Users\GEMA\.vscode\ExamenFinalModificado2F\ExamenFinalModificado2F\obj\Debug\net8.0\ref\ExamenFinalModificado2F.dll
