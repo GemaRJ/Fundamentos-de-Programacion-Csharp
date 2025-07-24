@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\bin\Debug\net9.0\Examen_Final_Ejercicio_2.exe
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\bin\Debug\net9.0\Examen_Final_Ejercicio_2.deps.json
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\bin\Debug\net9.0\Examen_Final_Ejercicio_2.runtimeconfig.json
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\bin\Debug\net9.0\Examen_Final_Ejercicio_2.dll
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\bin\Debug\net9.0\Examen_Final_Ejercicio_2.pdb
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.AssemblyInfo.cs
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.dll
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\refint\Examen_Final_Ejercicio_2.dll
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.pdb
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\Examen_Final_Ejercicio_2.genruntimeconfig.cache
+C:\Users\gr\.vscode\Examen_Final_Ejercicio_2\Examen_Final_Ejercicio_2\obj\Debug\net9.0\ref\Examen_Final_Ejercicio_2.dll
