@@ -60,3 +60,55 @@ class ProgramaTemperaturas
         }
     }
 }
+
+class GestorTemperaturas
+{
+    private int[] temperaturas;
+    private string[] dias;
+
+    public GestorTemperaturas(int[] temperaturas, string[] dias)
+    {
+        this.temperaturas = temperaturas;
+        this.dias = dias;
+    }
+
+    public double CalcularMedia()
+    {
+        int suma = 0;
+        foreach (int temp in temperaturas)
+        {
+            suma += temp;
+        }
+        return (double)suma / temperaturas.Length;
+    }
+
+    public string DiaMasCaluroso()
+    {
+        int max = temperaturas[0];
+        int indice = 0;
+        for (int i = 1; i < temperaturas.Length; i++)
+        {
+            if (temperaturas[i] > max)
+            {
+                max = temperaturas[i];
+                indice = i;
+            }
+        }
+        return dias[indice] + " con " + max + " grados";
+    }
+
+    public string DiaMasFrio()
+    {
+        int min = temperaturas[0];
+        int indice = 0;
+        for (int i = 1; i < temperaturas.Length; i++)
+        {
+            if (temperaturas[i] < min)
+            {
+                min = temperaturas[i];
+                indice = i;
+            }
+        }
+        return dias[indice] + " con " + min + " grados";
+    }
+}
