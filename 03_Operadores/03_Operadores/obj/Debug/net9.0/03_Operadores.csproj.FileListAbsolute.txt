@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\bin\Debug\net9.0\03_Operadores.exe
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\bin\Debug\net9.0\03_Operadores.deps.json
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\bin\Debug\net9.0\03_Operadores.runtimeconfig.json
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\bin\Debug\net9.0\03_Operadores.dll
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\bin\Debug\net9.0\03_Operadores.pdb
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.dll
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\refint\03_Operadores.dll
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.pdb
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\03_Operadores.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\03_Operadores\03_Operadores\obj\Debug\net9.0\ref\03_Operadores.dll

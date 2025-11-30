@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\09_List\09_List\bin\Debug\net9.0\09_List.exe
+C:\Users\gr\.vscode\C#\09_List\09_List\bin\Debug\net9.0\09_List.deps.json
+C:\Users\gr\.vscode\C#\09_List\09_List\bin\Debug\net9.0\09_List.runtimeconfig.json
+C:\Users\gr\.vscode\C#\09_List\09_List\bin\Debug\net9.0\09_List.dll
+C:\Users\gr\.vscode\C#\09_List\09_List\bin\Debug\net9.0\09_List.pdb
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.dll
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\refint\09_List.dll
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.pdb
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\09_List.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\09_List\09_List\obj\Debug\net9.0\ref\09_List.dll

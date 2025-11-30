@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\05_Array\05_Array\bin\Debug\net9.0\05_Array.exe
+C:\Users\gr\.vscode\C#\05_Array\05_Array\bin\Debug\net9.0\05_Array.deps.json
+C:\Users\gr\.vscode\C#\05_Array\05_Array\bin\Debug\net9.0\05_Array.runtimeconfig.json
+C:\Users\gr\.vscode\C#\05_Array\05_Array\bin\Debug\net9.0\05_Array.dll
+C:\Users\gr\.vscode\C#\05_Array\05_Array\bin\Debug\net9.0\05_Array.pdb
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.dll
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\refint\05_Array.dll
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.pdb
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\05_Array.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\05_Array\05_Array\obj\Debug\net9.0\ref\05_Array.dll

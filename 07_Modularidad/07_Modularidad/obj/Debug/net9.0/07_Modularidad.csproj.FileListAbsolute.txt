@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\bin\Debug\net9.0\07_Modularidad.exe
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\bin\Debug\net9.0\07_Modularidad.deps.json
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\bin\Debug\net9.0\07_Modularidad.runtimeconfig.json
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\bin\Debug\net9.0\07_Modularidad.dll
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\bin\Debug\net9.0\07_Modularidad.pdb
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.dll
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\refint\07_Modularidad.dll
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.pdb
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\07_Modularidad.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\07_Modularidad\07_Modularidad\obj\Debug\net9.0\ref\07_Modularidad.dll

@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\bin\Debug\net9.0\02_Funciones.exe
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\bin\Debug\net9.0\02_Funciones.deps.json
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\bin\Debug\net9.0\02_Funciones.runtimeconfig.json
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\bin\Debug\net9.0\02_Funciones.dll
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\bin\Debug\net9.0\02_Funciones.pdb
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.dll
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\refint\02_Funciones.dll
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.pdb
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\02_Funciones.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\02_Funciones\02_Funciones\obj\Debug\net9.0\ref\02_Funciones.dll

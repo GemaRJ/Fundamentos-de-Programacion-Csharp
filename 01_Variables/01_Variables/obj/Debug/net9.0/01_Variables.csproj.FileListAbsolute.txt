@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\bin\Debug\net9.0\01_Variables.exe
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\bin\Debug\net9.0\01_Variables.deps.json
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\bin\Debug\net9.0\01_Variables.runtimeconfig.json
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\bin\Debug\net9.0\01_Variables.dll
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\bin\Debug\net9.0\01_Variables.pdb
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.dll
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\refint\01_Variables.dll
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.pdb
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\01_Variables.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\01_Variables\01_Variables\obj\Debug\net9.0\ref\01_Variables.dll

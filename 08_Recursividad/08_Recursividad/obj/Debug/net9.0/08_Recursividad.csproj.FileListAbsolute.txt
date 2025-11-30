@@ -1,0 +1,14 @@
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\bin\Debug\net9.0\08_Recursividad.exe
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\bin\Debug\net9.0\08_Recursividad.deps.json
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\bin\Debug\net9.0\08_Recursividad.runtimeconfig.json
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\bin\Debug\net9.0\08_Recursividad.dll
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\bin\Debug\net9.0\08_Recursividad.pdb
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.AssemblyInfoInputs.cache
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.AssemblyInfo.cs
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.dll
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\refint\08_Recursividad.dll
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.pdb
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\08_Recursividad.genruntimeconfig.cache
+C:\Users\gr\.vscode\C#\08_Recursividad\08_Recursividad\obj\Debug\net9.0\ref\08_Recursividad.dll
